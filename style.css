@@ -1,0 +1,14 @@
+.logo {
+  width: 200px
+  float: left,
+  margin-right: 50px
+}
+h1 {
+  font-size: 65px
+}
+h2{
+  font-size: 40px
+}
+html {
+  background-color:rgb(243, 161, 161)
+}
